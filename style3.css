@@ -1,0 +1,27 @@
+#content{
+    margin: 0 auto;
+    width: 900px;
+    
+}
+#headline{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+.subheading{
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+p{
+    font-family: Helvetica, Arial, Sans-serif;
+    font-size: 15px;
+    line-height:1.5;
+}
+#image-cotainer1{
+    text-align:center;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.source{
+    font-size: 12px;
+}
