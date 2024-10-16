@@ -6,6 +6,7 @@
 #headline{
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
+    font-weight: lighter;
 }
 .subheading{
 font-size: 20px;
@@ -21,7 +22,32 @@ p{
     text-align:center;
     margin: 0 auto;
     margin-bottom: 100px;
+    max-width:100%;
+
 }
 .source{
     font-size: 12px;
+}
+.text-container{
+    width:80%;
+    margin: 0 auto;
+}
+
+#byline{
+    font-family: serif;
+    font-weight: lighter;
+    font-size: 15px;
+}
+blockquote {
+    font: 25px arial;
+    font-style: italic; 
+    margin-top: 15px; 
+    margin-bottom: 15px;  
+    margin: 0 auto;
+    width: 50%;
+    
+    }
+#masthead{
+   width: 1000px;
+
 }
