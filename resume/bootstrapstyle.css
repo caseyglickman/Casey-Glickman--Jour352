@@ -1,26 +1,57 @@
-#navbar-brand {
-    font-family: "Special Elite", system-ui;
-    font-weight: 400;
-    font-style: normal;
-  }
-  #title {
-    font-family: "Special Elite", system-ui;
-    font-weight: 400;
-    font-style: normal;
-  }
-  #heading1 {
-    font-family: "Special Elite", system-ui;
-    font-weight: 400;
-    font-style: normal;
-  }
-  #heading2{
-    font-family: "Special Elite", system-ui;
-    font-weight: 400;
-    font-style: normal;
-  }
-  .btn
-  {
-    font-family: "Special Elite", system-ui;
-    font-weight: 400;
-    font-style: normal;
-  }
+#content {
+  margin: 0 auto;
+  width: 900px;
+}
+.navbar-brand {
+  font-family: "Special Elite", sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: "Arial", sans-serif;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+/* Body Text Styling */
+body {
+  font-family: "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #333;
+}
+
+p {
+  font-size: 1rem;
+  margin-bottom: 15px;
+}
+
+/* Buttons Styling */
+.btn {
+  font-family: "Arial", sans-serif;
+  font-weight: 600;
+  padding: 10px;
+}
+
+/* Section Styling */
+#education, #skills, #experiences {
+  margin-bottom: 40px;
+ 
+}
+
+#education h2, #skills h2, #experiences h2{
+  text-align: center;
+  margin-bottom: 30px;
+  color:rgb(29, 114, 184);
+  text-transform: capitalize;
+}
+
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+#section-header-1, #section-header-2, #section-header-3{
+  color:rgb(29, 114, 184)
+}
