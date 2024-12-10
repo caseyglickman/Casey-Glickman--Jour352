@@ -81,9 +81,10 @@ p{
     border-top: 1px solid; 
     border-bottom: 1px solid; 
 }
-.quote-attribution{
-font-size:.5em;
-text-align: left;
-font-weight: 200;
-font-family: Arial, Helvetica, sans-serif;
+.caption{
+    font-size: 0.9em;
+    color: #555; 
+    margin-top: 5px; 
+    font-style: italic; 
+    line-height: 1.4;
 }

@@ -22,9 +22,6 @@ p{
     width:60%;
     margin: 0 auto;
 }
-.caption{
-    font-family: georgia, serif;
-}
 
 .hero-container{
     position: relative;
@@ -69,7 +66,7 @@ p{
 }
 
 .blockquote {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:georgia, serif;
     font-size: 2em;
     text-align:left;
     font-weight:500;
@@ -81,28 +78,20 @@ p{
     border-top: 1px solid; 
     border-bottom: 1px solid; 
 }
-.quote-attribution{
-font-size:.5em;
-text-align: left;
-font-weight: 200;
-font-family: Arial, Helvetica, sans-serif;
-}
+
 .btn{
     font-family: "Special Elite", system-ui;
     font-weight: 400;
     font-style: normal;
     margin: 0 auto;
     margin-top: 50px;
+    font-size: 2em;
     }
-/*Tophat*/
 
-.nav-logo{
-color:#fff;
-margin:0 auto;
-font-weight: 700;
-text-transform: uppercase;
-}
- 
-.red{
-    color:#f23030
+.caption{
+    font-size: 0.9em;
+    color: #555; 
+    margin-top: 5px; 
+    font-style: italic; 
+    line-height: 1.4;
 }
